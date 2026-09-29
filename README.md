@@ -1,6 +1,6 @@
 Hi, I’m Bariq!
 I’m mostly interested in game development and simulation buiilding in C/C++ and Java.
-Computer Science Student at UCF (on indefinite leave) 
+Computer Science Student at PJATK Warsaw. 
 This profile is to showcase my portolio, skills, knowledge and application of computer science concepts.
 Hobbies and interests: sports, fitness, art, fashion, reading, and writing.
 How to reach me: bariqqazi11@gmail.com
